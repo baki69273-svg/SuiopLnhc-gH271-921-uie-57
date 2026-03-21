@@ -21,3 +21,4 @@ git push
 url="https://raw.githubusercontent.com/baki69273-svg/SuiopLnhc-gH271-921-uie-57/main/images/$filename"
 
 echo "$url"
+echo "$url" | clip
